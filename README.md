@@ -6,6 +6,10 @@ This project analyzes borrower and loan characteristics to identify factors asso
 
 The analysis focuses on understanding default patterns across loan grades, income groups, previous default history, home ownership, and loan intent.
 
+## Dashboard Preview
+
+![Credit Risk & Loan Default Dashboard](Credit-Risk-Dashboard-Preview.png)
+
 ## Tools Used
 
 - Microsoft Excel
